@@ -311,7 +311,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 882da96d758932f43a784128e846deb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canvasRectTransform: {fileID: 0}
+  canvasRectTransform: {fileID: 706353013}
+  dragResponsiveness: 25
+  linearDamping: 7
+  maxLinearSpeed: 3000
+  rotationResponsiveness: 25
+  angularDamping: 7
+  maxAngularSpeed: 720
+  allowTwoFingerTranslation: 1
+  stopLinearSpeed: 5
+  stopAngularSpeed: 2
 --- !u!1 &418824418
 GameObject:
   m_ObjectHideFlags: 0
@@ -627,7 +636,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 882da96d758932f43a784128e846deb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canvasRectTransform: {fileID: 0}
+  canvasRectTransform: {fileID: 706353013}
+  dragResponsiveness: 25
+  linearDamping: 7
+  maxLinearSpeed: 3000
+  rotationResponsiveness: 25
+  angularDamping: 7
+  maxAngularSpeed: 720
+  allowTwoFingerTranslation: 1
+  stopLinearSpeed: 5
+  stopAngularSpeed: 2
 --- !u!225 &535767770
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -1286,6 +1304,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -1513,7 +1532,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 882da96d758932f43a784128e846deb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canvasRectTransform: {fileID: 0}
+  canvasRectTransform: {fileID: 706353013}
+  dragResponsiveness: 25
+  linearDamping: 7
+  maxLinearSpeed: 3000
+  rotationResponsiveness: 25
+  angularDamping: 7
+  maxAngularSpeed: 720
+  allowTwoFingerTranslation: 1
+  stopLinearSpeed: 5
+  stopAngularSpeed: 2
 --- !u!225 &1078788870
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -1748,6 +1776,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -1842,7 +1871,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 882da96d758932f43a784128e846deb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canvasRectTransform: {fileID: 0}
+  canvasRectTransform: {fileID: 706353013}
+  dragResponsiveness: 25
+  linearDamping: 7
+  maxLinearSpeed: 3000
+  rotationResponsiveness: 25
+  angularDamping: 7
+  maxAngularSpeed: 720
+  allowTwoFingerTranslation: 1
+  stopLinearSpeed: 5
+  stopAngularSpeed: 2
 --- !u!225 &1239097325
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -2032,6 +2070,7 @@ MonoBehaviour:
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -2636,6 +2675,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0

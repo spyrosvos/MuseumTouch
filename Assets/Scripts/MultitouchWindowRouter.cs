@@ -20,7 +20,6 @@ public class MultitouchWindowRouter : MonoBehaviour {
     }
 
     private void Update() {
-        // 1. Process active touches.
         foreach (var touch in Touch.activeTouches) {
             int fingerId = touch.finger.index;
 
@@ -32,16 +31,7 @@ public class MultitouchWindowRouter : MonoBehaviour {
             }
         }
 
-        // 2. Remove touches that are no longer active.
         CleanupEndedTouches();
-
-        // 3. Let each touched window update itself.
-        HashSet<TouchableWindow> updatedWindows = new HashSet<TouchableWindow>();
-
-        foreach (var window in touchOwners.Values) {
-            if (updatedWindows.Add(window))
-                window.UpdateWindowTransform();
-        }
     }
 
     private void TryAssignTouch(int fingerId, Vector2 screenPosition) {
@@ -60,7 +50,8 @@ public class MultitouchWindowRouter : MonoBehaviour {
     }
 
     private WindowDragArea GetTopmostDragArea(Vector2 screenPosition) {
-        PointerEventData pointerData = new PointerEventData(eventSystem) {
+        PointerEventData pointerData = new PointerEventData(eventSystem)
+        {
             position = screenPosition
         };
 
@@ -72,7 +63,7 @@ public class MultitouchWindowRouter : MonoBehaviour {
 
         GameObject topObject = results[0].gameObject;
 
-        // If the topmost thing is an interactive UI control, do not manipulate the window.
+        // If the topmost object is a normal UI control, let Unity UI handle it.
         if (IsUIControl(topObject))
             return null;
 
@@ -80,20 +71,16 @@ public class MultitouchWindowRouter : MonoBehaviour {
     }
 
     private bool IsUIControl(GameObject obj) {
-        return obj.GetComponentInParent<Button>() != null ||
-               obj.GetComponentInParent<Toggle>() != null ||
-               obj.GetComponentInParent<Slider>() != null ||
-               obj.GetComponentInParent<Dropdown>() != null ||
-               obj.GetComponentInParent<Scrollbar>() != null ||
-               obj.GetComponentInParent<InputField>() != null;
+        return obj.GetComponentInParent<Selectable>() != null;
     }
 
     private void CleanupEndedTouches() {
         List<int> endedFingers = new List<int>();
 
         foreach (int fingerId in touchOwners.Keys) {
-            if (!IsFingerStillActive(fingerId))
+            if (!IsFingerStillActive(fingerId)) {
                 endedFingers.Add(fingerId);
+            }
         }
 
         foreach (int fingerId in endedFingers) {
