@@ -103,10 +103,10 @@ TextureImporter:
       name: chest_0
       rect:
         serializedVersion: 2
-        x: 77
-        y: 4
-        width: 406
-        height: 421
+        x: 12
+        y: 12
+        width: 498
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

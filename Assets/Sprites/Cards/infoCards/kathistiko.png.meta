@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5952acc195866e64d81a3712fb364817
+guid: b5fa4799b7d054040a684eccdca0d6ca
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2639303928151099064
-    second: "\u03C0\u03B1\u03B6\u03BB_2_0"
+      213: -6703047256587333026
+    second: kathistiko_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u03C0\u03B1\u03B6\u03BB_2_0"
+      name: kathistiko_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 1
-        width: 46
-        height: 114
+        x: 6
+        y: 3
+        width: 418
+        height: 301
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b64db360f0b0a420800000000000000
-      internalID: 2639303928151099064
+      spriteID: e52947ec80ef9f2a0800000000000000
+      internalID: -6703047256587333026
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "\u03C0\u03B1\u03B6\u03BB_2_0": 2639303928151099064
+      kathistiko_0: -6703047256587333026
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
