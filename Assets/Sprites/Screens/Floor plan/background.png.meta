@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 46b568b8eaab16b428134d1f3926936f
+guid: a9618434c5eef154d95d0f29a33a6e7e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8917587230549603938
-    second: "background_\u03BA\u03B1\u03C4\u03BF\u03C8\u03B7\u03C2_0"
+      213: -9103672766176441082
+    second: Copy of diplomatiki (33)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "background_\u03BA\u03B1\u03C4\u03BF\u03C8\u03B7\u03C2_0"
+      name: Copy of diplomatiki (33)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e99088549ad5e3480800000000000000
-      internalID: -8917587230549603938
+      spriteID: 60dc7ac3ad149a180800000000000000
+      internalID: -9103672766176441082
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "background_\u03BA\u03B1\u03C4\u03BF\u03C8\u03B7\u03C2_0": -8917587230549603938
+      Copy of diplomatiki (33)_0: -9103672766176441082
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
