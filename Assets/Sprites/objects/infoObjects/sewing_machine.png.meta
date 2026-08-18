@@ -103,10 +103,10 @@ TextureImporter:
       name: sewing_machine_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1122
-        height: 1402
+        x: 12
+        y: 39
+        width: 534
+        height: 603
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

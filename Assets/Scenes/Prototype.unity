@@ -1207,7 +1207,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: soft_tap
+          m_StringArgument: open_door
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &80188638
@@ -6794,7 +6794,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: soft_tap
+          m_StringArgument: open_door
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &374845464
@@ -8592,7 +8592,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: soft_tap
+          m_StringArgument: open_door
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &467882038
@@ -10193,7 +10193,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: soft_tap
+          m_StringArgument: open_door
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &508226742
@@ -12564,7 +12564,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: soft_tap
+          m_StringArgument: open_door
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &639586235
@@ -12930,7 +12930,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: soft_tap
+          m_StringArgument: open_door
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &659240011
@@ -14487,7 +14487,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: soft_tap
+          m_StringArgument: open_door
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &709501580
@@ -19403,7 +19403,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: soft_tap
+          m_StringArgument: open_door
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1005310683
@@ -19711,7 +19711,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: soft_tap
+          m_StringArgument: open_door
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1025179308
@@ -19855,7 +19855,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: soft_tap
+          m_StringArgument: open_door
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1043133616
@@ -26215,7 +26215,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: soft_tap
+          m_StringArgument: open_door
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1348698368
@@ -36189,7 +36189,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: soft_tap
+          m_StringArgument: open_door
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1870450727

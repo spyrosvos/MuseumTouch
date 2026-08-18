@@ -103,10 +103,10 @@ TextureImporter:
       name: porcelain_plates_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 309
-        width: 1105
-        height: 849
+        x: 0
+        y: 151
+        width: 557
+        height: 430
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
