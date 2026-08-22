@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b0dcba4466b16cf4fa3728c6c3b860ba
+guid: 958d32496cb7fa24b9e8f0aa8a547822
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6660783624410144326
-    second: 17_0
+      213: -8953253014214864950
+    second: Copy of diplomatiki (40)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 17_0
+      name: Copy of diplomatiki (40)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64e94b28a6bdf6c50800000000000000
-      internalID: 6660783624410144326
+      spriteID: acf0787e1d7afb380800000000000000
+      internalID: -8953253014214864950
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      17_0: 6660783624410144326
+      Copy of diplomatiki (40)_0: -8953253014214864950
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
