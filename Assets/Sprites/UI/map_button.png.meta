@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a5793e39c2a2e5641af253e4b4dfcca4
+guid: 0112b8945fe03be49a85aafc76c26860
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 961653408109884754
-    second: diplomatiki (4)-Photoroom_0
+      213: 4546085325671506914
+    second: map_button_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: diplomatiki (4)-Photoroom_0
+      name: map_button_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 1
-        width: 145
-        height: 146
+        x: 12
+        y: 10
+        width: 469
+        height: 468
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 255fe6bfdaa785d00800000000000000
-      internalID: 961653408109884754
+      spriteID: 2e3244b7480f61f30800000000000000
+      internalID: 4546085325671506914
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      diplomatiki (4)-Photoroom_0: 961653408109884754
+      map_button_0: 4546085325671506914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

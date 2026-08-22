@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b72a4e048244bdc4d95a16365109ad40
+guid: 8bffab4cd23f44f4992c009ae0b1903a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -445109721763538606
-    second: a0213029-747c-45e7-9301-c144dfa3c6f9_removalai_preview - Copy_0
+      213: -294082019909658317
+    second: notebook_button_pressed_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: a0213029-747c-45e7-9301-c144dfa3c6f9_removalai_preview - Copy_0
+      name: notebook_button_pressed_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 69
-        height: 47
+        x: 13
+        y: 4
+        width: 469
+        height: 468
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 259163cf017a2d9f0800000000000000
-      internalID: -445109721763538606
+      spriteID: 339947406f53bebf0800000000000000
+      internalID: -294082019909658317
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      a0213029-747c-45e7-9301-c144dfa3c6f9_removalai_preview - Copy_0: -445109721763538606
+      notebook_button_pressed_0: -294082019909658317
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

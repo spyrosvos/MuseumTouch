@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 25cbbef793a3c0f4287c1bfcba40c679
+guid: 180964b255d15bb47b3d62c3ce097799
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1891143099246004331
-    second: Copy of diplomatiki (30)-Photoroom_0
+      213: 8809194555698753565
+    second: clue_photo_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Copy of diplomatiki (30)-Photoroom_0
+      name: clue_photo_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 10
-        width: 283
-        height: 334
+        x: 3
+        y: 2
+        width: 242
+        height: 291
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 597b206fe5f41c5e0800000000000000
-      internalID: -1891143099246004331
+      spriteID: d10bab976cb804a70800000000000000
+      internalID: 8809194555698753565
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Copy of diplomatiki (30)-Photoroom_0: -1891143099246004331
+      clue_photo_0: 8809194555698753565
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
