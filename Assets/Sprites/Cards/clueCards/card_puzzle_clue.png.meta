@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 779faa910384f39419b48d909cb48a78
+guid: cff7ffbb810e403458afe29c5660307a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8130287043259660571
-    second: 63dd812b-c909-41df-a618-490979f74547_removalai_preview_0
+      213: -3803085906326218025
+    second: card_puzzle_clue_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 63dd812b-c909-41df-a618-490979f74547_removalai_preview_0
+      name: card_puzzle_clue_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 0
-        width: 69
-        height: 23
+        x: 6
+        y: 9
+        width: 729
+        height: 447
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e60c80a20b6b2f80800000000000000
-      internalID: -8130287043259660571
+      spriteID: 7da912f8489b83bc0800000000000000
+      internalID: -3803085906326218025
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      63dd812b-c909-41df-a618-490979f74547_removalai_preview_0: -8130287043259660571
+      card_puzzle_clue_0: -3803085906326218025
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
