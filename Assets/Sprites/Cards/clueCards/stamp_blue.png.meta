@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: db5b1487002ddad459c7fd9700d0d6b5
+guid: f5149df161b34b148a2b69c7f3304faa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6271153960642741492
-    second: stamp_2_0
+      213: 6832890716941390004
+    second: Copy of diplomatiki (60)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: stamp_2_0
+      name: Copy of diplomatiki (60)_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1
-        width: 85
-        height: 86
+        x: 0
+        y: 0
+        width: 225
+        height: 237
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f405eb1d4d970750800000000000000
-      internalID: 6271153960642741492
+      spriteID: 4b01b54a7ed43de50800000000000000
+      internalID: 6832890716941390004
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      stamp_2_0: 6271153960642741492
+      Copy of diplomatiki (60)_0: 6832890716941390004
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
