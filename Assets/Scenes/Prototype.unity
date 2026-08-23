@@ -36662,6 +36662,7 @@ GameObject:
   - component: {fileID: 1572036861}
   - component: {fileID: 1572036860}
   - component: {fileID: 1572036859}
+  - component: {fileID: 1572036864}
   m_Layer: 5
   m_Name: Card_Evrika_with_magnifier
   m_TagString: Untagged
@@ -36753,9 +36754,10 @@ RectTransform:
   m_LocalScale: {x: 0.82325, y: 0.82325, z: 0.82325}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 371103745}
   - {fileID: 2047804026}
   - {fileID: 2059446282}
+  - {fileID: 371103745}
+  - {fileID: 2039086747}
   m_Father: {fileID: 1548545344}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -36763,6 +36765,62 @@ RectTransform:
   m_AnchoredPosition: {x: 105, y: 146}
   m_SizeDelta: {x: 519.7845, y: 311.2427}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1572036864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1572036858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9c59a60347458d42b141427840ca622, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  acceptedTool: {fileID: 1501556824}
+  singleUse: 1
+  onCorrectTool:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2047804024}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2059446281}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 2039086746}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+  onWrongTool:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1580283337
 GameObject:
   m_ObjectHideFlags: 0
@@ -46350,12 +46408,12 @@ GameObject:
   - component: {fileID: 2039086749}
   - component: {fileID: 2039086748}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Button_Save
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2039086747
 RectTransform:
   m_ObjectHideFlags: 0
@@ -46369,7 +46427,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1495916867}
-  m_Father: {fileID: 2059446282}
+  m_Father: {fileID: 1572036863}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -46784,7 +46842,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2047804026}
-  - component: {fileID: 2047804025}
   m_Layer: 5
   m_Name: State_Mikri
   m_TagString: Untagged
@@ -46792,50 +46849,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &2047804025
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2047804024}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f9c59a60347458d42b141427840ca622, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  acceptedTool: {fileID: 1501556824}
-  singleUse: 1
-  onCorrectTool:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2059446281}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-      - m_Target: {fileID: 2047804024}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-  onWrongTool:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!224 &2047804026
 RectTransform:
   m_ObjectHideFlags: 0
@@ -47236,7 +47249,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 755817818}
-  - {fileID: 2039086747}
   - {fileID: 1191375466}
   - {fileID: 956143008}
   - {fileID: 987974778}
