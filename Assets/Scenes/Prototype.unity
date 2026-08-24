@@ -13696,8 +13696,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -4.0539, y: 27.9167}
+  m_SizeDelta: {x: 299.8882, y: 362.1752}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &619394800
 GameObject:
@@ -24690,7 +24690,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2, y: -198}
+  m_AnchoredPosition: {x: 2, y: -170}
   m_SizeDelta: {x: 311.9911, y: 49.7186}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1003811566
@@ -28670,7 +28670,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.077, y: -0.8098}
+  m_AnchoredPosition: {x: 2.077, y: -0.8097992}
   m_SizeDelta: {x: 339.488, y: 478.0508}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1126866564
@@ -35774,6 +35774,7 @@ GameObject:
   - component: {fileID: 1418977611}
   - component: {fileID: 1418977610}
   - component: {fileID: 1418977615}
+  - component: {fileID: 1418977616}
   m_Layer: 5
   m_Name: Card_Evrika_with_lamp
   m_TagString: Untagged
@@ -35929,9 +35930,37 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+      - m_Target: {fileID: 1418977616}
+        m_TargetAssemblyTypeName: ClampInsideArea, Assembly-CSharp
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   onWrongTool:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &1418977616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1418977609}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47543fc08c6827e41bcdedde419bb352, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boundsArea: {fileID: 1377927257}
+  padding: 120
+  allowPartiallyOutside: 0
+  minimumVisible: 80
 --- !u!1 &1424903358
 GameObject:
   m_ObjectHideFlags: 0
@@ -40209,6 +40238,7 @@ GameObject:
   - component: {fileID: 1572036860}
   - component: {fileID: 1572036859}
   - component: {fileID: 1572036864}
+  - component: {fileID: 1572036865}
   m_Layer: 5
   m_Name: Card_Evrika_with_magnifier
   m_TagString: Untagged
@@ -40364,9 +40394,37 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+      - m_Target: {fileID: 1572036865}
+        m_TargetAssemblyTypeName: ClampInsideArea, Assembly-CSharp
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   onWrongTool:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &1572036865
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1572036858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47543fc08c6827e41bcdedde419bb352, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boundsArea: {fileID: 844817781}
+  padding: 50
+  allowPartiallyOutside: 0
+  minimumVisible: 80
 --- !u!1 &1580283337
 GameObject:
   m_ObjectHideFlags: 0
