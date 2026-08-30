@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f4b32e001a81d4843bbe72842be0ce23
+guid: 774083dfcc7bf064aa7356fbb453a14e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5951822189766972927
-    second: Copy of diplomatiki (27)-Photoroom_0
+      213: -396679362631640067
+    second: Copy of diplomatiki (86)-Photoroom_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Copy of diplomatiki (27)-Photoroom_0
+      name: Copy of diplomatiki (86)-Photoroom_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 3
-        width: 928
-        height: 359
+        x: 0
+        y: 0
+        width: 1655
+        height: 481
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff5195b5fbe199250800000000000000
-      internalID: 5951822189766972927
+      spriteID: dfbdc9ca836be7af0800000000000000
+      internalID: -396679362631640067
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Copy of diplomatiki (27)-Photoroom_0: 5951822189766972927
+      Copy of diplomatiki (86)-Photoroom_0: -396679362631640067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
