@@ -117,7 +117,7 @@ public class TouchableWindow : MonoBehaviour {
 
         linearVelocity = SmoothVector(linearVelocity, desiredVelocity, dragResponsiveness, dt);
 
-        rectTransform.anchoredPosition += linearVelocity * dt;
+        TranslateInCanvasSpace(linearVelocity * dt);
 
         // With only one finger, we do not want old rotation inertia to continue.
         angularVelocity = SmoothFloat(angularVelocity, 0f, rotationResponsiveness, dt);
@@ -143,7 +143,7 @@ public class TouchableWindow : MonoBehaviour {
 
             linearVelocity = SmoothVector(linearVelocity, desiredVelocity, dragResponsiveness, dt);
 
-            rectTransform.anchoredPosition += linearVelocity * dt;
+            TranslateInCanvasSpace(linearVelocity * dt);
         }
         else {
             linearVelocity = SmoothVector(linearVelocity, Vector2.zero, dragResponsiveness, dt);
@@ -167,12 +167,12 @@ public class TouchableWindow : MonoBehaviour {
             dt
         );
 
-        rectTransform.Rotate(0f, 0f, angularVelocity * dt);
+        RotateInCanvasSpace(angularVelocity * dt);
     }
 
     private void UpdateInertia(float dt) {
-        rectTransform.anchoredPosition += linearVelocity * dt;
-        rectTransform.Rotate(0f, 0f, angularVelocity * dt);
+        TranslateInCanvasSpace(linearVelocity * dt);
+        RotateInCanvasSpace(angularVelocity * dt);
 
         linearVelocity = DampVector(linearVelocity, linearDamping, dt);
         angularVelocity = DampFloat(angularVelocity, angularDamping, dt);
@@ -182,6 +182,22 @@ public class TouchableWindow : MonoBehaviour {
 
         if (Mathf.Abs(angularVelocity) < stopAngularSpeed)
             angularVelocity = 0f;
+    }
+
+    // Applies movement in the canvas coordinate system instead of the immediate
+    // parent coordinate system. This makes dragging independent of any rotation
+    // (or scale) on intermediate parent objects.
+    private void TranslateInCanvasSpace(Vector2 deltaCanvas) {
+        Vector3 canvasPosition = canvasRectTransform.InverseTransformPoint(rectTransform.position);
+        canvasPosition += new Vector3(deltaCanvas.x, deltaCanvas.y, 0f);
+        rectTransform.position = canvasRectTransform.TransformPoint(canvasPosition);
+    }
+
+    // Applies rotation around the canvas' forward axis in world space.
+    // Therefore a rotated intermediate parent does not alter the touch rotation.
+    private void RotateInCanvasSpace(float deltaAngle) {
+        Vector3 canvasForward = canvasRectTransform.TransformDirection(Vector3.forward);
+        rectTransform.Rotate(canvasForward, deltaAngle, Space.World);
     }
 
     private Vector2 ScreenDeltaToCanvasLocal(Vector2 previousScreen, Vector2 currentScreen) {
