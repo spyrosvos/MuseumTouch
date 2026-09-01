@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 8c383838181f3314ba6fc8ddcc6b3f30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1696426308764852714
+    second: notebook_clue_case_0
+  - first:
+      213: -2495280385203625777
+    second: notebook_clue_case_1
+  - first:
+      213: 4991487533355918171
+    second: notebook_clue_case_2
+  - first:
+      213: 6079718892777400236
+    second: notebook_clue_case_3
+  - first:
+      213: 2421260818082060056
+    second: notebook_clue_case_4
+  - first:
+      213: 6466462497408655242
+    second: notebook_clue_case_5
+  - first:
+      213: -2615836849922406433
+    second: notebook_clue_case_6
+  - first:
+      213: 2830144947770374048
+    second: notebook_clue_case_7
+  - first:
+      213: -2021007125227589749
+    second: notebook_clue_case_8
+  - first:
+      213: 6865295266193988406
+    second: notebook_clue_case_9
+  - first:
+      213: -1972748639684230345
+    second: notebook_clue_case_10
+  - first:
+      213: -5721148403676118925
+    second: notebook_clue_case_11
+  - first:
+      213: -6620107004605937327
+    second: notebook_clue_case_12
+  - first:
+      213: 3323718300743462901
+    second: notebook_clue_case_13
+  - first:
+      213: -3304677554022236518
+    second: notebook_clue_case_14
+  - first:
+      213: 1913049374384913726
+    second: notebook_clue_case_15
+  - first:
+      213: -6882643831524549253
+    second: notebook_clue_case_16
+  - first:
+      213: -7302195948633410636
+    second: notebook_clue_case_17
+  - first:
+      213: -7220708313843218996
+    second: notebook_clue_case_18
+  - first:
+      213: 2246790166794293245
+    second: notebook_clue_case_19
+  - first:
+      213: -8045234484497134916
+    second: notebook_clue_case_20
+  - first:
+      213: 1510528352213772585
+    second: notebook_clue_case_21
+  - first:
+      213: -6750166015957758510
+    second: notebook_clue_case_22
+  - first:
+      213: 2206597318566032234
+    second: notebook_clue_case_23
+  - first:
+      213: -2684382398788859668
+    second: notebook_clue_case_24
+  - first:
+      213: -3621465307448254335
+    second: notebook_clue_case_25
+  - first:
+      213: -7998995824041254207
+    second: notebook_clue_case_26
+  - first:
+      213: -7801250387234333456
+    second: notebook_clue_case_27
+  - first:
+      213: 6036668926596516719
+    second: notebook_clue_case_28
+  - first:
+      213: 5487603962370251989
+    second: notebook_clue_case_29
+  - first:
+      213: -4377079031984722722
+    second: notebook_clue_case_30
+  - first:
+      213: 8886861608778238033
+    second: notebook_clue_case_31
+  - first:
+      213: -6450266266089504731
+    second: notebook_clue_case_32
+  - first:
+      213: 2704871431276989854
+    second: notebook_clue_case_33
+  - first:
+      213: 7230382493920761770
+    second: notebook_clue_case_34
+  - first:
+      213: 8644827700726316998
+    second: notebook_clue_case_35
+  - first:
+      213: -4796362010626256887
+    second: notebook_clue_case_36
+  - first:
+      213: 3969572530032028563
+    second: notebook_clue_case_37
+  - first:
+      213: -2323528409280941733
+    second: notebook_clue_case_38
+  - first:
+      213: 4027315606379623831
+    second: notebook_clue_case_39
+  - first:
+      213: -4205581069880719878
+    second: notebook_clue_case_40
+  - first:
+      213: 1970298602595229969
+    second: notebook_clue_case_41
+  - first:
+      213: 3524018493997643610
+    second: notebook_clue_case_42
+  - first:
+      213: -3359594569967935690
+    second: notebook_clue_case_43
+  - first:
+      213: -1689549823555599784
+    second: notebook_clue_case_44
+  - first:
+      213: -6877660496406619576
+    second: notebook_clue_case_45
+  - first:
+      213: -7152104419028620752
+    second: notebook_clue_case_46
+  - first:
+      213: 4143918328141762907
+    second: notebook_clue_case_47
+  - first:
+      213: 1528852039050073434
+    second: notebook_clue_case_48
+  - first:
+      213: -8036467952059032817
+    second: notebook_clue_case_49
+  - first:
+      213: -1867190350820346403
+    second: notebook_clue_case_50
+  - first:
+      213: 791245945397412941
+    second: notebook_clue_case_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: notebook_clue_case_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 382
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e917e92451578e0800000000000000
+      internalID: -1696426308764852714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 389
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc020f0d5bbfe5dd0800000000000000
+      internalID: -2495280385203625777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 389
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53687e2773554540800000000000000
+      internalID: 4991487533355918171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 389
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca76a3a0f108f5450800000000000000
+      internalID: 6079718892777400236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 389
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8175a5ab2eb0a9120800000000000000
+      internalID: 2421260818082060056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 389
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f9d6f616d7db950800000000000000
+      internalID: 6466462497408655242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 389
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd78ff98e3ea2bbd0800000000000000
+      internalID: -2615836849922406433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 389
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a738b2d5d1b64720800000000000000
+      internalID: 2830144947770374048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 389
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fa6443ab0f3f3e0800000000000000
+      internalID: -2021007125227589749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 389
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bd9a3bbad664f50800000000000000
+      internalID: 6865295266193988406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 389
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7338c7470936f94e0800000000000000
+      internalID: -1972748639684230345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 389
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370879bb6d56a90b0800000000000000
+      internalID: -5721148403676118925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 389
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159436f01c7a024a0800000000000000
+      internalID: -6620107004605937327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_13
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 382
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff67494f28302e20800000000000000
+      internalID: 3323718300743462901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 352
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e3c47064d6322d0800000000000000
+      internalID: -3304677554022236518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 352
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dfefd25448c8a10800000000000000
+      internalID: 1913049374384913726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 323
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d127aa6efeb70a0800000000000000
+      internalID: -6882643831524549253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 323
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3b861397369aa90800000000000000
+      internalID: -7302195948633410636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 293
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc54aa6ab04eacb90800000000000000
+      internalID: -7220708313843218996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_19
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 293
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff4d90b0c33e2f10800000000000000
+      internalID: 2246790166794293245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 264
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba43d0acd5995090800000000000000
+      internalID: -8045234484497134916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 264
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929abd0888976f410800000000000000
+      internalID: 1510528352213772585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 234
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd8cebb5c79252a0800000000000000
+      internalID: -6750166015957758510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 234
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a633577f1986f9e10800000000000000
+      internalID: 2206597318566032234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 204
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce801e64e682fbad0800000000000000
+      internalID: -2684382398788859668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_25
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 204
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180652f7d78fdbdc0800000000000000
+      internalID: -3621465307448254335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 175
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c22034bdabddf090800000000000000
+      internalID: -7998995824041254207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 175
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcd4090b146cb390800000000000000
+      internalID: -7801250387234333456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 145
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b8c64b76e86c350800000000000000
+      internalID: 6036668926596516719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_29
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 145
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcda1daab2e72c40800000000000000
+      internalID: 5487603962370251989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 116
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc6db8afcd7143c0800000000000000
+      internalID: -4377079031984722722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 116
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158884f6c89745b70800000000000000
+      internalID: 8886861608778238033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 87
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520cc07810d0c76a0800000000000000
+      internalID: -6450266266089504731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_33
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 87
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d0e585c32a98520800000000000000
+      internalID: 2704871431276989854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 57
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7995ce19a775460800000000000000
+      internalID: 7230382493920761770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_35
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 57
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfbf36ddf898f770800000000000000
+      internalID: 8644827700726316998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 27
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900917ed926ef6db0800000000000000
+      internalID: -4796362010626256887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_37
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 27
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b25b23f21c61730800000000000000
+      internalID: 3969572530032028563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51f74be83b21cfd0800000000000000
+      internalID: -2323528409280941733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_39
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 5
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795f4a4d436e3e730800000000000000
+      internalID: 4027315606379623831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 5
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af507af8c46c2a5c0800000000000000
+      internalID: -4205581069880719878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_41
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 5
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1112325d328e75b10800000000000000
+      internalID: 1970298602595229969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_42
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 5
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57f2a43624d7e030800000000000000
+      internalID: 3524018493997643610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fdabbd9825061d0800000000000000
+      internalID: -3359594569967935690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 5
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85205a813638d88e0800000000000000
+      internalID: -1689549823555599784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a52f9c734ad80a0800000000000000
+      internalID: -6877660496406619576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 5
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a2c43acee9ebc90800000000000000
+      internalID: -7152104419028620752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 5
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51de1793c7228930800000000000000
+      internalID: 4143918328141762907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_48
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 5
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5516bd44d2973510800000000000000
+      internalID: 1528852039050073434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_49
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bd5b40afab87090800000000000000
+      internalID: -8036467952059032817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_50
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 5
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5f05bc4486616e0800000000000000
+      internalID: -1867190350820346403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notebook_clue_case_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d448161cef11bfa00800000000000000
+      internalID: 791245945397412941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      notebook_clue_case_0: -1696426308764852714
+      notebook_clue_case_1: -2495280385203625777
+      notebook_clue_case_10: -1972748639684230345
+      notebook_clue_case_11: -5721148403676118925
+      notebook_clue_case_12: -6620107004605937327
+      notebook_clue_case_13: 3323718300743462901
+      notebook_clue_case_14: -3304677554022236518
+      notebook_clue_case_15: 1913049374384913726
+      notebook_clue_case_16: -6882643831524549253
+      notebook_clue_case_17: -7302195948633410636
+      notebook_clue_case_18: -7220708313843218996
+      notebook_clue_case_19: 2246790166794293245
+      notebook_clue_case_2: 4991487533355918171
+      notebook_clue_case_20: -8045234484497134916
+      notebook_clue_case_21: 1510528352213772585
+      notebook_clue_case_22: -6750166015957758510
+      notebook_clue_case_23: 2206597318566032234
+      notebook_clue_case_24: -2684382398788859668
+      notebook_clue_case_25: -3621465307448254335
+      notebook_clue_case_26: -7998995824041254207
+      notebook_clue_case_27: -7801250387234333456
+      notebook_clue_case_28: 6036668926596516719
+      notebook_clue_case_29: 5487603962370251989
+      notebook_clue_case_3: 6079718892777400236
+      notebook_clue_case_30: -4377079031984722722
+      notebook_clue_case_31: 8886861608778238033
+      notebook_clue_case_32: -6450266266089504731
+      notebook_clue_case_33: 2704871431276989854
+      notebook_clue_case_34: 7230382493920761770
+      notebook_clue_case_35: 8644827700726316998
+      notebook_clue_case_36: -4796362010626256887
+      notebook_clue_case_37: 3969572530032028563
+      notebook_clue_case_38: -2323528409280941733
+      notebook_clue_case_39: 4027315606379623831
+      notebook_clue_case_4: 2421260818082060056
+      notebook_clue_case_40: -4205581069880719878
+      notebook_clue_case_41: 1970298602595229969
+      notebook_clue_case_42: 3524018493997643610
+      notebook_clue_case_43: -3359594569967935690
+      notebook_clue_case_44: -1689549823555599784
+      notebook_clue_case_45: -6877660496406619576
+      notebook_clue_case_46: -7152104419028620752
+      notebook_clue_case_47: 4143918328141762907
+      notebook_clue_case_48: 1528852039050073434
+      notebook_clue_case_49: -8036467952059032817
+      notebook_clue_case_5: 6466462497408655242
+      notebook_clue_case_50: -1867190350820346403
+      notebook_clue_case_51: 791245945397412941
+      notebook_clue_case_6: -2615836849922406433
+      notebook_clue_case_7: 2830144947770374048
+      notebook_clue_case_8: -2021007125227589749
+      notebook_clue_case_9: 6865295266193988406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
