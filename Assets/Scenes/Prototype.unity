@@ -67695,7 +67695,7 @@ GameObject:
   - component: {fileID: 1681351874}
   - component: {fileID: 1681351873}
   m_Layer: 5
-  m_Name: Button_Icon_Polikretis
+  m_Name: Button_Icon_Paikos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67717,8 +67717,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -233, y: 7}
-  m_SizeDelta: {x: 367.3806, y: 215.4652}
+  m_AnchoredPosition: {x: -233, y: 38}
+  m_SizeDelta: {x: 367.3806, y: 207.0441}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1681351873
 MonoBehaviour:
@@ -67820,7 +67820,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1efbdae9c1d7ab147a2708800f88d5e5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 95bb3cc51d74f6e45b21de80a42d0bdc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
